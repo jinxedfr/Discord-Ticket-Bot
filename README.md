@@ -1,6 +1,6 @@
 # 🎫 Discord Ticket Bot (mit ezcord)
 
-Ein vollautomatischer Discord Ticket-Bot mit Slash Commands, GUI-Setup, Transkript-Export und mehr – geschrieben mit [`ezcord`]([https://github.com/NullDev/ezcord](https://github.com/tibue99/ezcord)) und `chat-exporter`.
+Ein vollautomatischer Discord Ticket-Bot mit Slash Commands, GUI-Setup, Transkript-Export und mehr – geschrieben mit [`ezcord`]([https://github.com/NullDev/ezcord](https://github.com/tibue99/ezcord)), `py-cord` `chat-exporter`.
 
 **Repository:** [github.com/jinxedfr/Discord-Ticket-Bot](https://github.com/jinxedfr/Discord-Ticket-Bot)
 
