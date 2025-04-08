@@ -114,7 +114,7 @@ class TicketControls(discord.ui.View):
                 user = await interaction.client.fetch_user(self.user_id)
                 await user.send("📄 Dein Ticket-Transkript:", file=file)
             except discord.Forbidden:
-                await interaction.followup.send("⚠️ Konnte keine DM senden.", ephemeral=True)
+                await interaction.followup.send("⚠️ Konnte keine DM sendens.", ephemeral=True)
 
         embed = discord.Embed(
             title="🎟️ Ticket geschlossen",
